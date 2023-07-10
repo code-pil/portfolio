@@ -53,8 +53,8 @@ let data = (str) => {
             return `
             <div> <a href="https://fir-7bc54.web.app/quotes" target="_blank">Quotes Diary</a> </div>
             <div> <a href="https://food-panda-327e9.web.app/" target="_blank">Food Panda</a> </div>
+            <div> <a href="https://dalle.codepil.site/">Dall-e 2.0</a> </div>
             <div> <a href="https://code-pil.github.io/portfolio/">Obvious This is Also Project</a> </div>
-            
             `
             break;
 
